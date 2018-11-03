@@ -75,7 +75,7 @@ LiveReloadGlobal =
   _tabs: []
 
   initialize: ->
-    @host = '127.0.0.1'
+    @host = '192.168.58.3'
     @port = 35729
     # @client = new LRClient
     #   host: @host

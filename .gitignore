@@ -7,3 +7,4 @@ lib/*/*.js
 /dist
 /update/McCoy
 /Chrome/*.pem
+.DS_Store
