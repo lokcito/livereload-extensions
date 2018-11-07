@@ -8,8 +8,9 @@ Download and install in your Chrome Extensions
 Link: https://github.com/lokcito/livereload-extensions/raw/master/dist/2.1.0/LiveReload-2.1.0-ChromeWebStore.zip
 
 Screenshots: 
+
 ![Livereload Host](https://raw.githubusercontent.com/lokcito/livereload-extensions/master/docs/screenshoot-1.png "Livereload Host")
--
+
 ![Livereload Port](https://raw.githubusercontent.com/lokcito/livereload-extensions/master/docs/screenshoot-2.png "Livereload Port")
 
 
