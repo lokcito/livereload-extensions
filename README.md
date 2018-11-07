@@ -1,6 +1,18 @@
 LiveReload Browser Extensions
 =============================
 
+Stable Custom Host and Port Version
+-----------------
+Download and install in your Chrome Extensions
+
+Link: https://github.com/lokcito/livereload-extensions/raw/master/dist/2.1.0/LiveReload-2.1.0-ChromeWebStore.zip
+
+Screenshots: 
+![Livereload](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Livereload")
+
+
+For Developers
+-----------------
 Prerequsities:
 
 * Node.js (0.10.x or later) with npm

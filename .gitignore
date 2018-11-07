@@ -4,6 +4,7 @@ Chrome/LiveReload/*.js
 Firefox/content/*.js
 lib/*.js
 lib/*/*.js
+dist/2.1.0/LiveReload
 /update/McCoy
 /Chrome/*.pem
 .DS_Store
