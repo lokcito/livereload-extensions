@@ -121,6 +121,18 @@ LiveReloadGlobal =
         unless @areAnyTabsEnabled()
           @afterDisablingLast()
       else
+        customHost = prompt("Please enter your host:", this.host)
+        if customHost
+          this.host = customHost
+        else
+          alert("Host incorrect. Livereload may won't work.")
+        
+        customPort = prompt("Please enter your port:", this.port)
+        if customPort
+          this.port = customPort
+        else
+          alert("Port incorrect. Livereload may won't work.")
+        
         if @areAnyTabsEnabled()
           state.useFallback = @useFallback
           state.enable()
